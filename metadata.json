@@ -1,0 +1,6 @@
+{
+  "name": "Huffman X-Ray Visualizer",
+  "description": "Interactive browser-based Huffman coding visualizer and lossless .huf file compressor/decompressor featuring array-backed Min-Heap swaps, glowing binary tree traversal, live 8-bit shift register, and color-coded hex inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
